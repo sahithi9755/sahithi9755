@@ -131,7 +131,7 @@ An educational platform spanning 5 engineering branches with learning roadmaps a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahithi9755&theme=onedark&column=6&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sahithi9755&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </div>
 
