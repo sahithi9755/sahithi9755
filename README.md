@@ -127,11 +127,11 @@ An educational platform spanning 5 engineering branches with learning roadmaps a
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahithi9755&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sahithi9755&theme=onedark&column=6&margin-w=15&margin-h=15"/>
 
 </div>
 
