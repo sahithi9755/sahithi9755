@@ -1,157 +1,104 @@
-<h1 align="center">Hi 👋, I'm Sahithi Doddi</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer | Final Year CSE Student | Problem Solver
-</h3>
-
+<h1 align="center">Hi there, I'm Sahithi Doddi 👋</h1>
+<h3 align="center">🚀 Full-Stack Developer | Final-Year CSE Student | Problem Solver</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sahithi9755&label=Profile%20Views&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sahithi9755&label=Profile%20Views&style=flat&color=blueviolet" alt="Profile Views"/>
+  <a href="https://linkedin.com/in/sahithi-doddi-729066291"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sahithi15072006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/sahithi9755"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
-
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-🎓 Final Year Computer Science Engineering Student  
-🏫 Aditya Engineering College | Batch 2027  
-
-💻 Passionate about:
-- Software Development
-- Full Stack Web Development
-- Problem Solving
-- Backend Engineering
-
-🌱 Currently Learning:
-- System Design
-- Spring Boot
-- Advanced DSA
-
-💡 Building scalable applications using modern technologies
+- 🎓 Final-year **B.Tech, Computer Science Engineering** — Aditya Engineering College (CGPA: **9.12/10**)
+- 💼 Frontend Intern @ **Technical Hub** (May–Jun 2025) — built responsive UI components and integrated them with backend APIs
+- 🌱 Currently exploring **System Design**, **Spring Boot**, and advanced **DSA**
+- 💡 Love building full-stack apps with **React.js, Node.js, MySQL & MongoDB**
+- 📄 Check out my [Portfolio](https://portfolio-one-eosin-jgr6sdfkha.vercel.app/) for more
+- 📫 Reach me at **sahithi15072006@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-
-### Programming Languages
-
+**Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,mysql"/>
 </p>
 
-
-### Frontend Development
-
+**Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
-
-### Backend & Database
-
+**Backend & Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb"/>
 </p>
 
-
-### Tools
-
+**Tools & Frameworks**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,spring"/>
 </p>
-
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-
-### 📌 MailOra - Opportunity Tracking System
-
-Full stack platform to manage career opportunities.
-
-Tech Stack:
+#### 📌 [MailOra — Opportunity Tracking System](https://github.com/sahithi9755)
 `React.js` `Node.js` `MongoDB`
+- Automated email-based tracker for internships, jobs & interview notifications
+- Intelligent email filtering & classification of career opportunities
+- Backend services for deadline extraction and automated reminders
+- Real-time tracking through a centralized dashboard
 
-Features:
-- Automated opportunity tracking
-- Email classification
-- Deadline reminders
-- Dashboard management
-
-
----
-
-### 📌 SkillHance - Engineering Learning Platform
-
-Learning platform for engineering students.
-
-Features:
-- Branch wise roadmap
-- Coding preparation
-- Career guidance
-
-Tech Stack:
+#### 📌 [SkillHance — Engineering Learning Platform](https://github.com/sahithi9755)
 `HTML` `CSS` `JavaScript`
-
-
----
-
-## 🏆 Achievements
-
-⭐ Solved 400+ DSA Problems  
-🎯 CGPA: 9.12/10  
-🏅 Certified by MongoDB, Oracle, Red Hat, GitHub
-
+- Educational platform covering 5 engineering branches with learning roadmaps
+- Modular, scalable frontend components
+- Responsive design across desktop, tablet & mobile
 
 ---
 
-## 📊 GitHub Analytics
+### 🏆 Achievements
 
+- ⭐ Solved **450+ problems** on LeetCode across DSA topics
+- 🎯 Maintaining a CGPA of **9.12/10**
+- 🏗️ Built multiple full-stack apps using the MERN-adjacent stack (React, Node, Express, MongoDB)
+- 📜 **6 industry certifications** from Oracle, Red Hat, GitHub, MongoDB & Pearson
+
+### 📜 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| GitHub Foundations | GitHub | 2026 |
+| MongoDB Associate Developer | MongoDB | 2026 |
+| Oracle Database Foundation | Oracle | 2025 |
+| Red Hat Certified System Administrator (RHCSA) | Red Hat | 2025 |
+| Oracle Certified Foundations Associate (Java) | Oracle | 2025 |
+| HTML & CSS IT Specialist | Pearson | 2024 |
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sahithi9755&show_icons=true&theme=tokyonight"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahithi9755&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sahithi9755&theme=tokyonight"/>
 </p>
-
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahithi9755&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahithi9755&layout=compact&theme=tokyonight"/>
 </p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahithi9755&layout=compact&theme=tokyonight"/>
-
-</p>
-
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
-
-<p>
-
-<a href="https://github.com/sahithi9755">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/sahithi-doddi-729066291">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/sahithi-doddi-729066291"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:sahithi15072006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-
----
-
-<h3 align="center">
-✨ Code • Learn • Build • Repeat ✨
-</h3>
+<p align="center"><i>✨ Code • Learn • Build • Repeat ✨</i></p>
