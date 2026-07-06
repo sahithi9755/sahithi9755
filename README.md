@@ -112,14 +112,14 @@ An educational platform spanning 5 engineering branches with learning roadmaps a
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
+ <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahithi9755&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sahithi9755&theme=tokyonight&hide_border=true"/>
-</div> -->
+</div> 
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahithi9755&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+</div> -->
 
 <!-- <div align="center">
 
