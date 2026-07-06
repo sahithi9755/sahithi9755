@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/sahithi-doddi-729066291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sahithi15072006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Sahithi97/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/sahithi9755"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://portfolio-one-eosin-jgr6sdfkha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/>
@@ -16,24 +16,31 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Final-Year+CSE+Student+%40+Aditya+Engineering+College;Full-Stack+Developer+%7C+React+%E2%80%A2+Node+%E2%80%A2+MySQL+%E2%80%A2+MongoDB;450%2B+DSA+Problems+Solved+on+LeetCode;Building+MailOra+%26+SkillHance;Actively+Seeking+SDE+Internship+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Student+%40+Aditya+Engineering+College;Full-Stack+Developer+%7C+React+%E2%80%A2+Node+%E2%80%A2+MySQL+%E2%80%A2+MongoDB;450%2B+DSA+Problems+Solved+on+LeetCode;Builder+of+MailOra+%26+SkillHance;Actively+Seeking+SDE+Internship+Opportunities" alt="Typing SVG" />
 
 ---
 
-## 👩‍💻 About Me
+### 🎯 Career Objective
+
+> I build full-stack products that fix real annoyances — MailOra exists because I was tired of missing internship deadlines buried in my inbox. Looking for an SDE internship where I can turn that same instinct into production code, on a team that ships fast and reviews harder.
+
+---
+
+## 🧭 Quick Facts
 
 <table>
 <tr>
-<td width="25%" align="center">🎓<br/><b>9.12 CGPA</b><br/><sub>B.Tech CSE, 2027</sub></td>
-<td width="25%" align="center">🧩<br/><b>450+ Problems</b><br/><sub>Solved on LeetCode</sub></td>
-<td width="25%" align="center">💼<br/><b>Frontend Intern</b><br/><sub>Technical Hub, 2025</sub></td>
-<td width="25%" align="center">📜<br/><b>6 Certifications</b><br/><sub>Oracle, Red Hat, MongoDB+</sub></td>
+<td width="20%" align="center">🎓<br/><b>9.12 CGPA</b><br/><sub>B.Tech CSE, 2027</sub></td>
+<td width="20%" align="center">🧩<br/><b>450+ Problems</b><br/><sub>Solved on LeetCode</sub></td>
+<td width="20%" align="center">💼<br/><b>Frontend Intern</b><br/><sub>Technical Hub, 2025</sub></td>
+<td width="20%" align="center">📜<br/><b>6 Certifications</b><br/><sub>Oracle, Red Hat, MongoDB+</sub></td>
+<td width="20%" align="center">🚀<br/><b>2 Live Projects</b><br/><sub>MailOra · SkillHance</sub></td>
 </tr>
 </table>
 
-I build full-stack products end-to-end — from responsive React UIs to Node/Express backends and MySQL/MongoDB data layers — and I ship things that solve real problems (see MailOra below, born out of my own internship-hunting frustration).
-
-💡 Strong foundation in Data Structures, Algorithms, Object-Oriented Programming and Backend Development.
+**🔭 Currently building:** deeper Spring Boot + system design chops
+**🌱 Currently learning:** scalable backend architecture & API design patterns
+**⚡ Fun fact:** MailOra started as a personal script to stop me missing application deadlines — it's now a full dashboard I actually use daily
 
 ---
 
@@ -46,36 +53,39 @@ I build full-stack products end-to-end — from responsive React UIs to Node/Exp
 </div>
 
 <details>
-<summary><b>📂 Click to expand full skill breakdown</b></summary>
+<summary><b>📂 Full skill breakdown</b></summary>
 <br/>
 
-**Languages:** Java · C++ · Python · SQL
-**Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · React.js · Responsive Web Design
-**Backend:** Node.js · Express.js · REST APIs · Core Java
-**Databases:** MySQL · MongoDB
-**Frameworks:** Spring Boot (Basics)
-**Core CS:** Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · OOP
-**Tools:** Git · GitHub · VS Code
+| Category | Skills |
+|---|---|
+| **Languages** | Java · C++ · Python · SQL |
+| **Frontend** | HTML5 · CSS3 · JavaScript (ES6+) · React.js · Responsive Design |
+| **Backend** | Node.js · Express.js · REST APIs · Core Java |
+| **Databases** | MySQL · MongoDB |
+| **Frameworks** | Spring Boot (Basics) |
+| **Core CS** | DSA · DBMS · Operating Systems · Computer Networks · OOP |
+| **Tools** | Git · GitHub · VS Code |
 
 </details>
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects That Do Something Real
 
 <details open>
 <summary><b>📬 MailOra — Automated Opportunity Tracking System</b></summary>
 <br/>
 
-`React.js` `Node.js` `MongoDB`
+`React.js` `Node.js` `MongoDB` `REST APIs`
 
-An automated system that scans email for internship/job/interview updates so you never miss a deadline.
+Built after missing an internship deadline that was buried in my own inbox. MailOra parses incoming emails, classifies career-related ones (internship / job / interview), extracts deadlines automatically, and surfaces everything on one dashboard with reminders — so nothing slips through again.
 
-- 🔍 Intelligent email filtering & classification of career-related opportunities
-- ⏰ Automated deadline extraction and reminders
-- 📊 Real-time centralized dashboard via integrated APIs
+- 🔍 Rule-based email classification pipeline for career-related messages
+- ⏰ Automated deadline extraction + reminder scheduling
+- 📊 Centralized real-time dashboard backed by integrated APIs
+- 🛠️ Full-stack build: React frontend, Node/Express backend, MongoDB persistence
 
-**[🔗 View Repository](https://github.com/SaiSaraswathi06/Mailora)**
+**[🔗 View Repository](https://github.com/sahithi9755)**
 
 </details>
 
@@ -85,13 +95,14 @@ An automated system that scans email for internship/job/interview updates so you
 
 `HTML` `CSS` `JavaScript`
 
-An educational platform spanning 5 engineering branches with learning roadmaps and career guidance.
+A learning platform covering 5 engineering branches with structured roadmaps, curated coding resources, and career guidance — built to be usable on any device without a framework.
 
-- 🧩 Modular, scalable frontend components
-- ✅ Input validation & structured data handling
-- 📱 Fully responsive — desktop, tablet & mobile
+- 🧩 Modular, reusable component architecture in vanilla JS
+- ✅ Client-side input validation and structured data handling
+- 📱 Responsive across desktop, tablet, and mobile
+- 🎨 Designed and built the UI from scratch — no template
 
-**[🔗 View Repository](https://github.com/sahithi9755/SkillHance_Latest)**
+**[🔗 View Repository](https://github.com/sahithi9755)**
 
 </details>
 
@@ -111,55 +122,43 @@ An educational platform spanning 5 engineering branches with learning roadmaps a
 </div>
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahithi9755&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=sahithi9755&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahithi9755&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sahithi9755&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sahithi9755&theme=tokyonight&hide_border=true"/>
 </div>
 
----
-
-## 🏆 GitHub Achievements
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahithi9755&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahithi9755&theme=tokyonight"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahithi9755&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahithi9755&theme=tokyonight"/>
+### 🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=sahithi9755&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
 <div align="center">
 
+### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahithi9755&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
 
 ## 📬 Let's Connect
 
 <div align="center">
 
-I'm actively looking for **Software Development Internships / New-Grad roles**.
-If you're hiring or just want to chat tech, reach out!
+Actively looking for **SDE Internships / New-Grad roles** — if you're hiring or just want to talk shop, my inbox is open.
 
 <a href="mailto:sahithi15072006@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sahithi-doddi-729066291"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
 
 </div>
