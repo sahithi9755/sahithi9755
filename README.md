@@ -32,6 +32,7 @@
 </table>
 
 I build full-stack products end-to-end — from responsive React UIs to Node/Express backends and MySQL/MongoDB data layers — and I ship things that solve real problems (see MailOra below, born out of my own internship-hunting frustration).
+
 💡 Strong foundation in Data Structures, Algorithms, Object-Oriented Programming and Backend Development.
 
 ---
@@ -110,18 +111,17 @@ An educational platform spanning 5 engineering branches with learning roadmaps a
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahithi9755&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahithi9755&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=sahithi9755&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=sahithi9755&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahithi9755&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahithi9755&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -131,7 +131,7 @@ An educational platform spanning 5 engineering branches with learning roadmaps a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahithi9755&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sahithi9755&theme=algolia&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -154,11 +154,6 @@ If you're hiring or just want to chat tech, reach out!
 
 <a href="mailto:sahithi15072006@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sahithi-doddi-729066291"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sahithi9755/sahithi9755/output/github-contribution-grid-snake.svg"/>
-</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
 
 </div>
