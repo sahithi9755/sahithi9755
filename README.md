@@ -1,130 +1,112 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Doddi%20Sahithi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Sahithi%20Doddi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Final-Year%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/sahithi-doddi-729066291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sahithi-doddi-729066291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sahithi15072006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/sahithi9755"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://portfolio-one-eosin-jgr6sdfkha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/OPEN%20TO-Software%20Development%20Opportunities-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO-SDE%20Internships%20%26%20Full--Time%20Roles-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)
 <img src="https://komarev.com/ghpvc/?username=sahithi9755&label=Profile%20Views&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Student+%40+Aditya+Engineering+College;Full-Stack+Developer+%7C+React+%E2%80%A2+Node+%E2%80%A2+MongoDB+%E2%80%A2+MySQL;Passionate+About+DSA%2C+Web+Dev+%26+AI;Building+Real-World+Projects+That+Solve+Problems;Graduating+2027+%7C+CGPA+9.12" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Student+%40+Aditya+Engineering+College;Full-Stack+Developer+%7C+React+%E2%80%A2+Node+%E2%80%A2+MySQL+%E2%80%A2+MongoDB;450%2B+DSA+Problems+Solved+on+LeetCode;Builder+of+MailOra+%26+SkillHance;Actively+Seeking+SDE+Internship+Opportunities" alt="Typing SVG" />
 
 ---
 
-### 👩‍💻 About Me
+### 🎯 Career Objective
 
-- 🎓 Final-year **Computer Science Engineering** student at **Aditya Engineering College**, graduating **2027**, with a CGPA of **9.12**
-- 💡 Passionate about **software development**, **full-stack development**, and **problem solving**
-- 🛠️ Enjoy building **real-world projects** and picking up new technologies along the way
-- 📚 Currently sharpening my skills in **Data Structures & Algorithms**, **Web Development**, and **AI-related technologies**
-- 📫 Reach me at **sahithi15072006@gmail.com**
+> I build full-stack products that fix real annoyances — MailOra exists because I was tired of missing internship deadlines buried in my inbox. Looking for an SDE internship where I can turn that same instinct into production code, on a team that ships fast and reviews harder.
 
 ---
 
-## 🧑‍💻 Technical Skills
-
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-**Backend & Database**
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-**Tools & Platforms**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Project Showcase
+## 🧭 Quick Facts
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🎓 [Skill Hance](https://github.com/sahithi9755)
-`HTML` `CSS` `JavaScript`
-
-Educational platform for engineering students featuring branch-wise resources, quick revision PDFs, coding preparation material, and chatbot support.
-
-</td>
-<td width="50%" valign="top">
-
-### 💆 [YouNique Care](https://github.com/sahithi9755)
-`React.js` `Node.js` `MongoDB`
-
-A wellness platform delivering personalized diet and skincare recommendations tailored to individual needs.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 [Finance Dashboard](https://github.com/sahithi9755)
-`React.js` `Data Visualization`
-
-A React-based financial dashboard with a modern UI and interactive data visualization for tracking key metrics at a glance.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 [TMDB Movies App](https://github.com/sahithi9755)
-`React.js` `REST API`
-
-A movie discovery application built with React, integrating the TMDB API to browse, search, and explore films.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ [Image Description Generator](https://github.com/sahithi9755)
-`Deep Learning` `CNN` `LSTM` `Python`
-
-A deep learning project combining CNN and LSTM architectures to automatically generate natural-language captions for images.
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-💡 *More projects in progress — check my [pinned repositories](https://github.com/sahithi9755) for the latest work.*
-
-</td>
+<td width="20%" align="center">🎓<br/><b>9.12 CGPA</b><br/><sub>B.Tech CSE, 2027</sub></td>
+<td width="20%" align="center">🧩<br/><b>450+ Problems</b><br/><sub>Solved on LeetCode</sub></td>
+<td width="20%" align="center">💼<br/><b>Frontend Intern</b><br/><sub>Technical Hub, 2025</sub></td>
+<td width="20%" align="center">📜<br/><b>6 Certifications</b><br/><sub>Oracle, Red Hat, MongoDB+</sub></td>
+<td width="20%" align="center">🚀<br/><b>2 Live Projects</b><br/><sub>MailOra · SkillHance</sub></td>
 </tr>
 </table>
+
+**🔭 Currently building:** deeper Spring Boot + system design chops
+
+**🌱 Currently learning:** scalable backend architecture & API design patterns
+
+**⚡ Fun fact:** MailOra started as a personal script to stop me missing application deadlines — it's now a full dashboard I actually use daily
+
+---
+
+## 🧑‍💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,mysql,mongodb,html,css,js,react,nodejs,express,git,github,vscode,spring" />
+
+</div>
+
+<details>
+<summary><b>📂 Full skill breakdown</b></summary>
+<br/>
+
+| Category | Skills |
+|---|---|
+| **Languages** | Java · C++ · Python · SQL |
+| **Frontend** | HTML5 · CSS3 · JavaScript (ES6+) · React.js · Responsive Design |
+| **Backend** | Node.js · Express.js · REST APIs · Core Java |
+| **Databases** | MySQL · MongoDB |
+| **Frameworks** | Spring Boot (Basics) |
+| **Core CS** | DSA · DBMS · Operating Systems · Computer Networks · OOP |
+| **Tools** | Git · GitHub · VS Code |
+
+</details>
+
+---
+
+## 🚀 Projects That Do Something Real
+
+<details open>
+<summary><b>📬 MailOra — Automated Opportunity Tracking System</b></summary>
+<br/>
+
+`React.js` `Node.js` `MongoDB` `REST APIs`
+
+Built after missing an internship deadline that was buried in my own inbox. MailOra parses incoming emails, classifies career-related ones (internship / job / interview), extracts deadlines automatically, and surfaces everything on one dashboard with reminders — so nothing slips through again.
+
+- 🔍 Rule-based email classification pipeline for career-related messages
+- ⏰ Automated deadline extraction + reminder scheduling
+- 📊 Centralized real-time dashboard backed by integrated APIs
+- 🛠️ Full-stack build: React frontend, Node/Express backend, MongoDB persistence
+
+**[🔗 View Repository](https://github.com/SaiSaraswathi06/Mailora)**
+
+</details>
+
+<details>
+<summary><b>🎓 SkillHance — Engineering Learning Platform</b></summary>
+<br/>
+
+`HTML` `CSS` `JavaScript`
+
+A learning platform covering 5 engineering branches with structured roadmaps, curated coding resources, and career guidance — built to be usable on any device without a framework.
+
+- 🧩 Modular, reusable component architecture in vanilla JS
+- ✅ Client-side input validation and structured data handling
+- 📱 Responsive across desktop, tablet, and mobile
+- 🎨 Designed and built the UI from scratch — no template
+
+**[🔗 View Repository](https://github.com/sahithi9755/SkillHance_Latest)**
+
+</details>
 
 ---
 
@@ -132,27 +114,14 @@ A deep learning project combining CNN and LSTM architectures to automatically ge
 
 <div align="center">
 
-![Red Hat](https://img.shields.io/badge/Red_Hat_Certified_System_Administrator-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL_Certification-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB_Developer_Certification-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub_Foundations_Certification-181717?style=flat-square&logo=github&logoColor=white)
-![Cisco Python](https://img.shields.io/badge/Cisco_Python_Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco C/C++](https://img.shields.io/badge/Cisco_C%2FC%2B%2B_Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![HTML CSS](https://img.shields.io/badge/HTML%2FCSS_IT_Specialist-E34F26?style=flat-square&logo=html5&logoColor=white)
+![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-2026-181717?style=flat-square&logo=github)
+![MongoDB Associate](https://img.shields.io/badge/MongoDB_Associate_Developer-2026-47A248?style=flat-square&logo=mongodb)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB_Foundation-2025-F80000?style=flat-square&logo=oracle)
+![RHCSA](https://img.shields.io/badge/Red_Hat_RHCSA-2025-EE0000?style=flat-square&logo=redhat)
+![Oracle Java](https://img.shields.io/badge/Oracle_Java_Foundations-2025-F80000?style=flat-square&logo=oracle)
+![HTML CSS](https://img.shields.io/badge/HTML%2FCSS_IT_Specialist-2024-E34F26?style=flat-square&logo=html5)
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-<p>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-informational?style=flat-square&color=6366F1"/>
-<img src="https://img.shields.io/badge/Advanced%20Web%20Development-informational?style=flat-square&color=6366F1"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-informational?style=flat-square&color=6366F1"/>
-</p>
-
-Deepening my problem-solving foundation while exploring how AI-driven features can be woven into full-stack applications.
 
 ---
 
@@ -176,22 +145,21 @@ Deepening my problem-solving foundation while exploring how AI-driven features c
 
 <div align="center">
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahithi9755&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
 
-I'm actively looking for **Software Development opportunities** — feel free to reach out!
+Actively looking for **SDE Internships / New-Grad roles** — if you're hiring or just want to talk shop, my inbox is open.
 
-<a href="https://www.linkedin.com/in/sahithi-doddi-729066291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sahithi15072006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/sahithi9755"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:sahithi15072006@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sahithi-doddi-729066291"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
 
