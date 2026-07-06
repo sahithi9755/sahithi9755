@@ -20,7 +20,8 @@
 
 ---
 
-🚀 About Me
+## 🚀 About Me
+
 I'm a B.Tech Computer Science Engineering student at Aditya Engineering College (CGPA: 9.12/10.00), passionate about building scalable, end-to-end web applications with the MERN stack. I enjoy turning ideas into clean, functional products — from architecting backend APIs to crafting responsive, user-centric frontends.
 
 * 🎓 Currently pursuing B.Tech in Computer Science Engineering (2023 – 2027)
