@@ -20,9 +20,14 @@
 
 ---
 
-### 🎯 Career Objective
+🚀 About Me
+I'm a B.Tech Computer Science Engineering student at Aditya Engineering College (CGPA: 9.12/10.00), passionate about building scalable, end-to-end web applications with the MERN stack. I enjoy turning ideas into clean, functional products — from architecting backend APIs to crafting responsive, user-centric frontends.
 
-> I build full-stack products that fix real annoyances — MailOra exists because I was tired of missing internship deadlines buried in my inbox. Looking for an SDE internship where I can turn that same instinct into production code, on a team that ships fast and reviews harder.
+* 🎓 Currently pursuing B.Tech in Computer Science Engineering (2023 – 2027)
+* 💼 Frontend Developer Intern  **@ Technical Hub**
+* 🧩 Solved **450+ DSA problems** on LeetCode
+* 🔭 Building full-stack projects that solve real, everyday problems — MailOra and SkillHance among them
+* 💬 Ask me about **React.js, Node.js, MongoDB, or DSA problem-solving strategies**
 
 ---
 
