@@ -131,7 +131,13 @@ An educational platform spanning 5 engineering branches with learning roadmaps a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahithi9755&theme=darkhub&column=7"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahithi9755&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahithi9755&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahithi9755&theme=tokyonight"/>
 
 </div>
 
